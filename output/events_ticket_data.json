@@ -1,0 +1,156 @@
+{
+  "summary": {
+    "total_events": 100,
+    "events_with_tickets": 5,
+    "events_without_tickets": 95,
+    "platform_counts": {
+      "AXS": 3,
+      "StubHub": 2,
+      "TicketWeb": 2,
+      "Ticketmaster": 2
+    }
+  },
+  "events": {
+    "CHCH Presents: Spotlight on Tuscany with Collette": [],
+    "Acute Care of at-Risk Newborns (ACoRN) Provider - FEB 24 &25": [
+      {
+        "platform": "AXS",
+        "url": "https://www.axs.com/events/967877?search=Acute+Care+of+at-Risk+Newborns+%28ACoRN%29+Provider+-+FEB+24+%2625"
+      }
+    ],
+    "Paint Nite  Art Event in Hamilton. Fun creative event. Paint Party.": [],
+    "Truffle Making 101 (Hamilton Location)": [],
+    "Classic Chocolate Making Workshop (Hamilton)": [],
+    "Chocolate Masterclass (Hamilton Location)": [],
+    "25th February Paint Night at Boston Pizza, Waterdown": [],
+    "Hamilton All Star Jazz Band presents: Big Band Classics": [],
+    "Foe's Show @Aquanova Brewing Co. | Stand-Up Comedy Show": [],
+    "Yoga Nidra with Dizzy": [],
+    "Tea & Toner: A Galentine' Tea Blending Experience": [],
+    "Pizza Making Workshop (Hamilton Location)": [],
+    "Sourdough Bread Making Workshop (Hamilton)": [],
+    "Cooking Caramel Treats (Hamilton Location)": [],
+    "Sugar Cookie Decorating Class (Hamilton)": [],
+    "Neonatal Resuscitation Program (NRP)  Advanced Provider - FEB  24": [],
+    "Invasive Ventilation for Community Care Practitioners  -  FEB 27": [],
+    "Blissful Bao Making Class": [],
+    "Harrington's Jewellery and Timepieces Buying Event-By Appointment only": [],
+    "Wednesday Trivia at Shawn and Eds (Dundas)": [
+      {
+        "platform": "AXS",
+        "url": "https://www.axs.com/events/967877?search=Wednesday+Trivia+at+Shawn+and+Eds+%28Dundas%29"
+      }
+    ],
+    "Hamilton LeadTribes In-Person": [],
+    "Salesforce Admin Certification Training in Hamilton, ON": [],
+    "Salesforce Platform App Builder Certification Training in Hamilton, ON": [],
+    "Agile and Scrum Certification Training in Hamilton, ON": [],
+    "PMP Certification 4 Days Classroom Training in Hamilton, ON": [],
+    "Write On! Write Now": [],
+    "Combo Lean 6 Sigma (Green + Black Belt) Cert Training in Hamilton, ON": [],
+    "Stand-up Comedy Workshop: Back to Basics with Scott Faulconbridge": [],
+    "FEVER DREAM with DJ NICHOLAS PICHOLAS": [],
+    "SONS OF BUTCHER \"Makin' Bacon\" Single Release @ RIDICULOUS (Hamilton)": [],
+    "The Hell Bent Rockers 15th Anniversary Celebration by Steelore Presents": [],
+    "Painting Class with Julia Veenstra": [],
+    "HMC Presents: Tom Wilson Sings Jazz!": [],
+    "ANCIENT SHAPES AT INTO THE ABYSS": [],
+    "Mike Rita live in Hamilton": [],
+    "Whaddies 2026": [],
+    "HMC Presents: TH&B! Septet": [
+      {
+        "platform": "AXS",
+        "url": "https://www.axs.com/events/967877?search=HMC+Presents%3A+TH%26B%21+Septet"
+      }
+    ],
+    "\"Ready, Set, Register!\" Burlington, ON": [],
+    "Galentine's Day Dance Party @ KICKS": [],
+    "Brands & Buyers Brunch": [],
+    "Heated Rivalry Party": [
+      {
+        "platform": "StubHub",
+        "url": "https://www.stubhub.ca/heated-rivalry-party-san-marcos-tickets-3-7-2026/event/160418912/?qid=ff03cdc4-c894-46e4-863d-5d5892b67652&iid=7238eb0b-4627-4335-acbe-b8865929a206&index=stubhub&ut=b0b6365e-3dc9-4d14-93c4-52c9c6e3d354&lt=12.8214906&lg=80.0441053"
+      },
+      {
+        "platform": "TicketWeb",
+        "url": "https://www.ticketweb.ca/event/heated-rivalry-dance-party-hard-luck-bar-tickets/14072144"
+      },
+      {
+        "platform": "TicketWeb",
+        "url": "https://www.ticketweb.com/event/heated-rivalry-dance-party-in-albatross-tickets/14152464"
+      },
+      {
+        "platform": "Ticketmaster",
+        "url": "https://www.ticketmaster.com/roxbox-access-heated-rivalry-night-not-mckees-rocks-pennsylvania-03-27-2026/event/16006453AF829967"
+      }
+    ],
+    "Hamilton Pro Wrestling - We ❤︎ Wrestling 6!": [],
+    "2026 New Judges Dinner": [],
+    "The Concrete Mixer 2026": [],
+    "Masoud Sadeghloo concert": [],
+    "Wealth Summit 2026 - Protect. Multiply. Preserve.": [],
+    "Banff Mountain Film Festival World Tour": [
+      {
+        "platform": "StubHub",
+        "url": "https://www.stubhub.ca/banff-centre-mountain-film-festival-world-tour-london-tickets-3-21-2026/event/158904073/?qid=3f724159-03c4-4e63-ad79-889ee37daa6b&iid=7f83a791-9b2e-45d7-9428-925f590a8124&index=stubhub&ut=b0b6365e-3dc9-4d14-93c4-52c9c6e3d354&lt=12.8214906&lg=80.0441053"
+      },
+      {
+        "platform": "Ticketmaster",
+        "url": "https://www.ticketmaster.com.au/banff-mountain-film-festival-world-tour-sandy-bay-13-05-2026/event/130063553C754B49"
+      }
+    ],
+    "See Randall Wallace writer of Braveheart /The Resurrection of the Christ": [],
+    "The Snow Moon Sessions with ONION HONEY and special guest FOOL'S GOLD": [],
+    "The Strongman Blues Studio Acoustic Sessions II": [],
+    "BellyDance On The Block": [],
+    "Charcuterie Board Class": [],
+    "Hope Jar Writing Circle: Reflect, write, decorate, and honour your hope!": [],
+    "Hamilton Winterfest presents Frost Queens - ALL AGES": [],
+    "VALENTINE'S Blood on the Clocktower: A Hidden-Identity Large Group Game": [],
+    "2026 MIGH X PIH Canada Global Health Case Competition": [],
+    "X-tasty (10 year anniversary show)": [],
+    "Ladies' Business Networking Meeting: Elevate & Connect (February)": [],
+    "Puffy Heart Garland Workshop": [],
+    "STEVE STRONGMAN Feb 1 at The SHED!": [],
+    "Misdirection: Magic and Mind Reading Show | Hamilton": [],
+    "Hamilton Wedding Expo Winter 2026": [],
+    "Weird Art Hang: Stuffed Animal Taxidermy": [],
+    "DRAWING and PAINTING  for Kids": [],
+    "Risky Business '80s Night - Saturday, February 7, 2026": [],
+    "The Founder's Circle: A Galentine Business Workshop": [],
+    "Outstanding Oakville Scavenger Hunt": [],
+    "Full Moon Ceremony": [],
+    "Blues and Roots Matinee Sessions at The Upper Coach": [],
+    "Honky Tonk Heroes: An Evening Of Classic Country Music": [],
+    "NRP Refresher Course for MCH NICU Team - FEB 05 (AM)": [],
+    "Judge & Jury Stand-up Comedy": [],
+    "Oakville Speed Dating (Ages 45-55F/48-58M)": [],
+    "Valentine's Make & Decorate Your Own Dough Bowl Candle Centerpiece!": [],
+    "Gintervention - a Zero-Proof Mixology Class": [],
+    "Tea on the Ton - A Bridgerton Inspired Tea on the Train": [],
+    "Full Moon Cacao Ceremony": [],
+    "Burlington Business Networking Meeting (February)": [],
+    "Fundamentals of Tracheostomy Care -  FEB 06": [],
+    "Valentine's Cookie Class": [],
+    "Crystal Bowl + Sound Bath to Clear Stress": [],
+    "0 to 1 Million Followers - Digital Scaling Masterclass": [],
+    "Decoding Inflation & Economic Indicators - 1 Day Session in Burlington": [],
+    "Sip & Pour: Galentines Day Edition": [],
+    "Galentine's Paint Night": [],
+    "Ecstatic Dance & Cacao Ceremony with Sound Healing": [],
+    "Peer Support Group": [],
+    "Medical Aesthetic Coffee Chat": [],
+    "Valentine's Day - Paint a pottery mug for couples in Oakville": [],
+    "Power BI & Tableau Data Visualisation Basics: 1 Day Session in Burlington": [],
+    "Applied Python for Data Science: 1 Day Workshop in Burlington": [],
+    "Mid-Life Retirement Planning Essentials: 1 Day Session in Burlington": [],
+    "PHP & MySQL Fundamentals: 1 Day Workshop in Burlington": [],
+    "Espresso Essentials & Milk Steaming 101 @ ECS Coffee Burlington": [],
+    "Relaxation Yoga with Bunnies": [],
+    "Paint Nite Brand Creative Events": [],
+    "Family Paint Party": [],
+    "Paint & Unwind: Guided Canvas Painting at Terra Greenhouse - Burlington": [],
+    "Combo Lean 6 Sigma (Green + Black Belt) Cert Training in Burlington, ON": [],
+    "Heartsaver� CPR AED - Level C - FEB 20 PM": []
+  }
+}
